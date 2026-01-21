@@ -1,0 +1,5 @@
+TITLU: The C++ Lang
+------------------------
+Biblia C++ scrisa de creatorul sau.
+
+(Acesta este un fisier generat automat pentru testarea download-ului.)

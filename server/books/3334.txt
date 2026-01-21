@@ -1,0 +1,5 @@
+TITLU: The Hobbit
+------------------------
+Intr-o gaura in pamant traia un hobbit.
+
+(Acesta este un fisier generat automat pentru testarea download-ului.)

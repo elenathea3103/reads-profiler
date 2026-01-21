@@ -1,0 +1,5 @@
+TITLU: Clean Code
+------------------------
+Chiar daca codul merge, daca e urat...
+
+(Acesta este un fisier generat automat pentru testarea download-ului.)
